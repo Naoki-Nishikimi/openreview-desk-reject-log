@@ -1,5 +1,7 @@
 # ICLR 2026 OpenReview Desk Rejection – Public Review Log Archive
 
+_Last updated: 2026-01-19_
+
 **Press Summary**
 
 This repository provides a structured, verifiable archive of publicly accessible OpenReview records associated with an ICLR 2026 submission that received a desk rejection.  
