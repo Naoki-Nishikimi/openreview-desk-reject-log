@@ -38,6 +38,44 @@ All materials are derived exclusively from **public OpenReview pages**.
 - No claims beyond what is directly observable
 
 ---
+## Distinction Between Desk Rejection Grounds and Reviewer Concerns
+
+The desk rejection of this submission was formally issued on the basis of
+**citation and bibliographic accuracy issues**, as stated by the Program Chairs.
+
+Separately, multiple reviewers provided substantive technical and conceptual
+evaluations of the paper during the review phase.
+
+To avoid conflation of these two distinct aspects, this repository explicitly
+distinguishes between:
+
+- **Desk rejection grounds**  
+  → Bibliographic and citation-related issues cited by the Program Chairs
+
+- **Reviewer concerns**  
+  → Technical, conceptual, and presentation-related points raised in reviews
+
+The table below summarizes reviewer-visible concerns and observable interactions
+*without asserting causality or responsibility*.
+
+---
+
+## Reviewer Summary Table (Public Observations)
+
+| Reviewer ID | Initial Score | Key Stated Concerns (Summary) | Author Rebuttal Coverage | Post-Rebuttal Reviewer Response | Score Change Observed |
+|------------|---------------|-------------------------------|--------------------------|----------------------------------|----------------------|
+| dYzc | 0 (Strong Reject) | LLM authorship concern; TSR characterization; terminology clarity | Mathematical and conceptual responses provided to all stated points | No substantive response observed | None |
+| 4mjb | 0 (Strong Reject) | Reproducibility; experimental clarity | GitHub-based reproduction logs and clarifications provided | No response observed | None |
+| 1G3A | 2 (Reject) | Professionalism; novelty; reproducibility | Prior concerns addressed with references and explanations | Brief informal response; no follow-up | None |
+| cbU2 | 2 (Reject) | Technical simplicity; theoretical depth | Conceptual framing and novelty clarified | No further response observed | None |
+
+**Notes**
+- All entries are derived solely from publicly visible OpenReview records.
+- The table reports *observable statements, responses, and score logs only*.
+- No claims are made regarding reviewer intent, adequacy, or correctness.
+
+
+---
 
 ## Repository Structure
 
