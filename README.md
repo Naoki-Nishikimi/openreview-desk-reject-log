@@ -73,6 +73,8 @@ The table below summarizes reviewer-visible concerns and observable interactions
 - All entries are derived solely from publicly visible OpenReview records.
 - The table reports *observable statements, responses, and score logs only*.
 - No claims are made regarding reviewer intent, adequacy, or correctness.
+- Supporting reproduction logs referenced in this table are archived at:
+  https://github.com/APF-Consortium/APF_Reproducibility_Study_ICLR2026
 
 
 ---
