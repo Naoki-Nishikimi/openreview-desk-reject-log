@@ -96,6 +96,8 @@ The table below summarizes reviewer-visible concerns and observable interactions
 openreview-desk-reject-log/
 ├─ README.md
 ├─ LICENSE
+├─ docs/
+│  └─ ethical_considerations.md
 ├─ 01_rebuttal/
 │  ├─ README.md
 │  ├─ iclr2026_rebuttal_with_meta_review.png
@@ -110,6 +112,19 @@ openreview-desk-reject-log/
 ```
 
 Each directory contains its own README describing context and capture method.
+
+---
+
+### Analytical Note (Optional)
+
+An analytical discussion examining how the publicly observable review process
+relates to general principles of procedural fairness, proportionality,
+and reviewer accountability is provided separately:
+
+→ docs/ethical_considerations.md
+
+This document does not assert misconduct and is clearly distinguished
+from the factual archive presented here.
 
 ---
 
