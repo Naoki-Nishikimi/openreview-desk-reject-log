@@ -115,6 +115,20 @@ Each directory contains its own README describing context and capture method.
 
 ---
 
+#### Procedural Note on Desk Rejection Criteria (Contextual)
+
+In large-scale peer review systems, desk rejection policies that permit termination at any stage of the review process solely on the basis of citation or bibliographic issues may serve important administrative functions. At the same time, such policies can also operate as universal termination mechanisms independent of substantive peer review outcomes.
+
+Because citation imperfections are, to some degree, inevitable in complex technical manuscripts, the absence of clearly articulated procedural safeguards may blur the boundary between formal screening and evaluative judgment.
+
+This repository does **not** assert misuse or improper application of desk rejection policies. Instead, it documents publicly observable records and raises a general, forward-looking question regarding proportionality, procedural clarity, and transparency in peer review systems.
+
+A more detailed analytical discussion of these considerations is provided separately in:
+
+→ `docs/ethical_considerations.md`
+
+---
+
 ### Analytical Note (Optional)
 
 An analytical discussion examining how the publicly observable review process
