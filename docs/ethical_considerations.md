@@ -40,6 +40,16 @@ and procedural fairness:
 
 ---
 
+## Procedural Note on Desk Rejection Criteria
+
+A policy that permits desk rejection at any stage of the review process solely on the basis of citation or bibliographic issues—while administratively practical—may also function as a universal termination mechanism independent of substantive peer review outcomes.
+
+Because citation imperfections are, to some degree, inevitable in complex technical manuscripts, the absence of clearly articulated procedural safeguards risks blurring the boundary between formal screening and evaluative judgment.
+
+This repository does **not** assert misuse of such policies. Instead, it documents observable records and raises a general, forward-looking question regarding **proportionality**, **procedural clarity**, and **transparency** in large-scale peer review systems.
+
+---
+
 ## Observational Scope
 
 The observations referenced here are limited to:
